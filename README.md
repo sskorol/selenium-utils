@@ -3,7 +3,7 @@ Jenkins plugin, which uses Environment Watcher client for automation services re
 
 Implemented via maven, jersey, jenkins-api.
 
-Main usage: restarting stuck automation services via Environment Watcher service: https://github.com/sskuts/env-watcher.
+Main usage: restarting stuck automation processes via Environment Watcher service: https://github.com/sskuts/env-watcher.
 
 You can find detailed instruction here: http://qa-automation-notes.blogspot.com/2015/02/environment-watcher-or-how-to-create.html
 
